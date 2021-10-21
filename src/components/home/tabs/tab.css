@@ -1,0 +1,15 @@
+.tabs .MuiTab-wrapper {
+  flex-direction: row !important;
+  color: white !important;
+  font-size: 18px !important;
+}
+
+.tabs .MuiSvgIcon-fontSizeLarge {
+  margin: 10px !important;
+  color: rgb(8, 180, 109) !important;
+  font-size: 25px !important;
+}
+
+.PrivateTabIndicator-colorSecondary-7 {
+  background-color: rgb(8, 180, 109) !important;
+}
